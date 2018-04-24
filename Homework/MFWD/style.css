@@ -74,7 +74,7 @@
 	width: 100%;
 	height: 51%;
 	top:46%;
-	background:url("MFWD/Images/pic.png" );
+	background:url("Images/pic.png" );
 }
 
 .box1,.box2,.box3{
@@ -105,7 +105,7 @@
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	background: url("MFWD/Images/sis1.jpg")
+	background: url("Images/sis1.jpg")
 }
 .box7{
 	width: 100%;
@@ -121,7 +121,7 @@
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	background:url("MFWD/Images/3.jpg");
+	background:url("Images/3.jpg");
 	background-size: contain;
 }
 
